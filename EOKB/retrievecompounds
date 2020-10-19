@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#for database scraping of EouDB - compounds are labeled in order by increasing number - provided by the numbers.txt file
+
 url="https://essentialoils.org/api/compound"
 
 
